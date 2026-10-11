@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bottlepy/bottle-sqlite/commit/fce1bb95e724076cc3ca57eea8b70abfbe0c7e14",
       "git:hexsha": "fce1bb95e724076cc3ca57eea8b70abfbe0c7e14",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
