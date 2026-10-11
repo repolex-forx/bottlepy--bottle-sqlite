@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "bottlepy",
+  "repo": "bottle-sqlite",
+  "versions": [
+    {
+      "commit": "fce1bb95e724076cc3ca57eea8b70abfbe0c7e14",
+      "parsed_at": "2026-10-11T06:10:16.921263+00:00",
+      "filetree": "filetree/fce1bb95e724076cc3ca57eea8b70abfbe0c7e14.nq.gz",
+      "blobs": [
+        "blob/766c0bfc56187d6ec6a61df482d7e82878854d23.nq.gz",
+        "blob/67cd403fdf1f2a620c10bd4d627aad23a808bf44.nq.gz",
+        "blob/ba3b91170fa623fcb68c156bcbb0e05f5d816f05.nq.gz",
+        "blob/eec2bbd097f5f2f577dc0e113b829ca275cf73bc.nq.gz",
+        "blob/0cdbfa5d58aad7e9f453661ef3d9fc302456d247.nq.gz",
+        "blob/7e25ca2218f2e3946b28e6338abfbeb9ac72df42.nq.gz",
+        "blob/7fa0e7b416ed857f2c0f630739f8e09f12868513.nq.gz",
+        "blob/df4b9f421f6874d2c8df2abf416527463106e2b8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
